@@ -1,0 +1,206 @@
+strict digraph {
+	node [shape=point];
+	n0_7905 -> n1_130 [penwidth=9.00];
+	n0_1947 -> n1_69 [penwidth=9.00];
+	n0_4116 -> n1_78 [penwidth=9.00];
+	n0_7257 -> n1_78 [penwidth=9.00];
+	n0_3470 -> n1_130 [penwidth=9.00];
+	n0_7890 -> n1_91 [penwidth=9.00];
+	n0_5033 -> n1_130 [penwidth=9.00];
+	n0_4223 -> n1_91 [penwidth=9.00];
+	n0_6717 -> n1_130 [penwidth=9.00];
+	n0_796 -> n1_89 [penwidth=9.00];
+	n0_8001 -> n1_91 [penwidth=9.00];
+	n0_697 -> n1_78 [penwidth=9.00];
+	n0_7527 -> n1_79 [penwidth=9.00];
+	n0_5702 -> n1_91 [penwidth=9.00];
+	n0_3568 -> n1_113 [penwidth=9.00];
+	n0_7241 -> n1_130 [penwidth=9.00];
+	n0_3266 -> n1_91 [penwidth=9.00];
+	n0_5471 -> n1_78 [penwidth=9.00];
+	n0_9976 -> n1_89 [penwidth=9.00];
+	n0_3986 -> n1_91 [penwidth=9.00];
+	n0_9996 -> n1_78 [penwidth=9.00];
+	n0_1771 -> n1_130 [penwidth=9.00];
+	n0_9367 -> n1_91 [penwidth=9.00];
+	n0_6097 -> n1_89 [penwidth=9.00];
+	n0_6320 -> n1_91 [penwidth=9.00];
+	n0_229 -> n1_113 [penwidth=9.00];
+	n0_5674 -> n1_78 [penwidth=9.00];
+	n0_894 -> n1_130 [penwidth=9.00];
+	n0_9379 -> n1_78 [penwidth=9.00];
+	n0_3066 -> n1_79 [penwidth=9.00];
+	n0_8806 -> n1_69 [penwidth=9.00];
+	n0_7306 -> n1_78 [penwidth=9.00];
+	n0_3671 -> n1_78 [penwidth=9.00];
+	n0_1846 -> n1_78 [penwidth=9.00];
+	n0_5653 -> n1_78 [penwidth=9.00];
+	n0_8079 -> n1_78 [penwidth=9.00];
+	n0_2873 -> n1_78 [penwidth=9.00];
+	n0_1136 -> n1_79 [penwidth=9.00];
+	n0_3935 -> n1_130 [penwidth=9.00];
+	n0_1788 -> n1_79 [penwidth=9.00];
+	n0_5888 -> n1_78 [penwidth=9.00];
+	n0_8053 -> n1_91 [penwidth=9.00];
+	n0_5914 -> n1_91 [penwidth=9.00];
+	n0_5011 -> n1_89 [penwidth=9.00];
+	n0_3308 -> n1_78 [penwidth=9.00];
+	n0_6826 -> n1_130 [penwidth=9.00];
+	n0_5411 -> n1_78 [penwidth=9.00];
+	n0_6658 -> n1_113 [penwidth=9.00];
+	n0_8757 -> n1_91 [penwidth=9.00];
+	n0_7599 -> n1_130 [penwidth=9.00];
+	n0_7109 -> n1_130 [penwidth=9.00];
+	n0_9994 -> n1_69 [penwidth=9.00];
+	n0_4260 -> n1_130 [penwidth=9.00];
+	n0_4841 -> n1_130 [penwidth=9.00];
+	n0_4552 -> n1_79 [penwidth=9.00];
+	n0_3612 -> n1_79 [penwidth=9.00];
+	n0_5049 -> n1_79 [penwidth=9.00];
+	n0_50 -> n1_91 [penwidth=9.00];
+	n0_1675 -> n1_130 [penwidth=9.00];
+	n0_1360 -> n1_78 [penwidth=9.00];
+	n0_425 -> n1_91 [penwidth=9.00];
+	n0_476 -> n1_91 [penwidth=9.00];
+	n0_6401 -> n1_91 [penwidth=9.00];
+	n0_2934 -> n1_130 [penwidth=9.00];
+	n0_8602 -> n1_91 [penwidth=9.00];
+	n0_4404 -> n1_78 [penwidth=9.00];
+	n0_7807 -> n1_130 [penwidth=9.00];
+	n0_2648 -> n1_91 [penwidth=9.00];
+	n0_3981 -> n1_91 [penwidth=9.00];
+	n0_1522 -> n1_78 [penwidth=9.00];
+	n0_6629 -> n1_69 [penwidth=9.00];
+	n0_9704 -> n1_91 [penwidth=9.00];
+	n0_4193 -> n1_89 [penwidth=9.00];
+	n0_3253 -> n1_91 [penwidth=9.00];
+	n0_2353 -> n1_91 [penwidth=9.00];
+	n0_9186 -> n1_91 [penwidth=9.00];
+	n0_7738 -> n1_78 [penwidth=9.00];
+	n0_8882 -> n1_91 [penwidth=9.00];
+	n0_6411 -> n1_130 [penwidth=9.00];
+	n0_1904 -> n1_113 [penwidth=9.00];
+	n0_8348 -> n1_78 [penwidth=9.00];
+	n0_2337 -> n1_69 [penwidth=9.00];
+	n0_9868 -> n1_69 [penwidth=9.00];
+	n0_7941 -> n1_130 [penwidth=9.00];
+	n0_21 -> n1_91 [penwidth=9.00];
+	n0_1800 -> n1_78 [penwidth=9.00];
+	n0_291 -> n1_79 [penwidth=9.00];
+	n0_2140 -> n1_91 [penwidth=9.00];
+	n0_9429 -> n1_91 [penwidth=9.00];
+	n0_2127 -> n1_78 [penwidth=9.00];
+	n0_7673 -> n1_78 [penwidth=9.00];
+	n0_6446 -> n1_130 [penwidth=9.00];
+	n0_2928 -> n1_130 [penwidth=9.00];
+	n0_6146 -> n1_130 [penwidth=9.00];
+	n0_2385 -> n1_91 [penwidth=9.00];
+	n0_3908 -> n1_78 [penwidth=9.00];
+	n0_1673 -> n1_78 [penwidth=9.00];
+	n0_1212 -> n1_78 [penwidth=9.00];
+	n0_7905 [label="comp391516_c0_seq1",shape=none,fontcolor="black"]
+	n0_1947 [label="comp9897_c2_seq8",shape=none,fontcolor="black"]
+	n0_4116 [label="comp537875_c0_seq1",shape=none,fontcolor="black"]
+	n0_7257 [label="comp450764_c0_seq1",shape=none,fontcolor="black"]
+	n0_3470 [label="comp26333_c1_seq2",shape=none,fontcolor="black"]
+	n0_7890 [label="comp395702_c0_seq1",shape=none,fontcolor="black"]
+	n0_8882 [label="comp453220_c0_seq1",shape=none,fontcolor="black"]
+	n0_5033 [label="comp107651_c0_seq1",shape=none,fontcolor="black"]
+	n0_4223 [label="comp486187_c0_seq1",shape=none,fontcolor="black"]
+	n0_6717 [label="comp218911_c0_seq1",shape=none,fontcolor="black"]
+	n0_796 [label="comp147276_c0_seq1",shape=none,fontcolor="black"]
+	n0_8001 [label="comp55548_c0_seq2",shape=none,fontcolor="black"]
+	n0_697 [label="comp532481_c0_seq1",shape=none,fontcolor="black"]
+	n0_7527 [label="comp66200_c1_seq2",shape=none,fontcolor="black"]
+	n0_5702 [label="comp452179_c0_seq1",shape=none,fontcolor="black"]
+	n0_3568 [label="comp119884_c1_seq1",shape=none,fontcolor="black"]
+	n0_7241 [label="comp25800_c0_seq2",shape=none,fontcolor="black"]
+	n0_3266 [label="comp208008_c0_seq1",shape=none,fontcolor="black"]
+	n0_3935 [label="comp346959_c0_seq1",shape=none,fontcolor="black"]
+	n0_9976 [label="comp182308_c0_seq1",shape=none,fontcolor="black"]
+	n0_3986 [label="comp15472_c3_seq1",shape=none,fontcolor="black"]
+	n0_9996 [label="comp258112_c0_seq1",shape=none,fontcolor="black"]
+	n0_1771 [label="comp207324_c0_seq1",shape=none,fontcolor="black"]
+	n0_9367 [label="comp147158_c0_seq1",shape=none,fontcolor="black"]
+	n1_89 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.01,label="89"]
+	n1_78 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.01,label="78"]
+	n0_6097 [label="comp115164_c0_seq1",shape=none,fontcolor="black"]
+	n0_6320 [label="comp144483_c0_seq1",shape=none,fontcolor="black"]
+	n0_229 [label="comp8694_c0_seq1",shape=none,fontcolor="black"]
+	n0_5674 [label="comp239882_c0_seq2",shape=none,fontcolor="black"]
+	n0_894 [label="comp338184_c0_seq1",shape=none,fontcolor="black"]
+	n0_9379 [label="comp58359_c0_seq1",shape=none,fontcolor="black"]
+	n0_3066 [label="comp306243_c0_seq1",shape=none,fontcolor="black"]
+	n0_8806 [label="comp6410_c0_seq3",shape=none,fontcolor="black"]
+	n0_7306 [label="comp231737_c1_seq1",shape=none,fontcolor="black"]
+	n0_3671 [label="comp459739_c0_seq1",shape=none,fontcolor="black"]
+	n0_1846 [label="comp153742_c0_seq1",shape=none,fontcolor="black"]
+	n0_5653 [label="comp1324_c31_seq68",shape=none,fontcolor="black"]
+	n0_8079 [label="comp11142_c0_seq10",shape=none,fontcolor="black"]
+	n0_2873 [label="comp508000_c0_seq1",shape=none,fontcolor="black"]
+	n0_1136 [label="comp391829_c0_seq1",shape=none,fontcolor="black"]
+	n0_5471 [label="comp428419_c0_seq1",shape=none,fontcolor="black"]
+	n0_1788 [label="comp243_c5_seq1",shape=none,fontcolor="black"]
+	n0_5888 [label="comp441138_c0_seq1",shape=none,fontcolor="black"]
+	n0_8053 [label="comp33892_c0_seq1",shape=none,fontcolor="black"]
+	n0_9868 [label="comp322_c20_seq8",shape=none,fontcolor="black"]
+	n0_5914 [label="comp408988_c0_seq1",shape=none,fontcolor="black"]
+	n0_5011 [label="comp199308_c0_seq2",shape=none,fontcolor="black"]
+	n0_3308 [label="comp371396_c0_seq1",shape=none,fontcolor="black"]
+	n0_6826 [label="comp221931_c0_seq1",shape=none,fontcolor="black"]
+	n0_5411 [label="comp36990_c2_seq1",shape=none,fontcolor="black"]
+	n0_6658 [label="comp117122_c0_seq1",shape=none,fontcolor="black"]
+	n0_8757 [label="comp151660_c0_seq1",shape=none,fontcolor="black"]
+	n0_7599 [label="comp479175_c0_seq1",shape=none,fontcolor="black"]
+	n0_7109 [label="comp286171_c0_seq1",shape=none,fontcolor="black"]
+	n0_9994 [label="comp239236_c0_seq1",shape=none,fontcolor="black"]
+	n0_4260 [label="comp14652_c0_seq1",shape=none,fontcolor="black"]
+	n0_4841 [label="comp180458_c0_seq1",shape=none,fontcolor="black"]
+	n0_4552 [label="comp140895_c0_seq1",shape=none,fontcolor="black"]
+	n0_3612 [label="comp66111_c2_seq1",shape=none,fontcolor="black"]
+	n1_130 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.00,label="130"]
+	n0_5049 [label="comp59423_c0_seq2",shape=none,fontcolor="black"]
+	n1_91 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.01,label="91"]
+	n0_50 [label="comp12_c247_seq4",shape=none,fontcolor="black"]
+	n0_1675 [label="comp345621_c0_seq2",shape=none,fontcolor="black"]
+	n0_1360 [label="comp527272_c0_seq1",shape=none,fontcolor="black"]
+	n0_425 [label="comp376063_c0_seq1",shape=none,fontcolor="black"]
+	n0_476 [label="comp10552_c1_seq2",shape=none,fontcolor="black"]
+	n0_6401 [label="comp470575_c0_seq1",shape=none,fontcolor="black"]
+	n0_2934 [label="comp321126_c0_seq1",shape=none,fontcolor="black"]
+	n0_8602 [label="comp429_c49_seq37",shape=none,fontcolor="black"]
+	n0_4404 [label="comp530078_c0_seq1",shape=none,fontcolor="black"]
+	n0_7807 [label="comp185408_c0_seq1",shape=none,fontcolor="black"]
+	n0_2648 [label="comp352796_c0_seq1",shape=none,fontcolor="black"]
+	n0_3981 [label="comp164178_c0_seq1",shape=none,fontcolor="black"]
+	n0_1522 [label="comp382550_c0_seq1",shape=none,fontcolor="black"]
+	n0_6629 [label="comp78582_c1_seq1",shape=none,fontcolor="black"]
+	n0_9704 [label="comp143278_c0_seq1",shape=none,fontcolor="black"]
+	n0_4193 [label="comp238528_c0_seq1",shape=none,fontcolor="black"]
+	n0_3253 [label="comp826_c2_seq10",shape=none,fontcolor="black"]
+	n0_2353 [label="comp275814_c0_seq1",shape=none,fontcolor="black"]
+	n0_9186 [label="comp23181_c0_seq4",shape=none,fontcolor="black"]
+	n0_7738 [label="comp310654_c0_seq1",shape=none,fontcolor="black"]
+	n1_113 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.01,label="113"]
+	n0_6411 [label="comp449670_c0_seq1",shape=none,fontcolor="black"]
+	n0_1904 [label="comp200058_c0_seq1",shape=none,fontcolor="black"]
+	n0_8348 [label="comp248055_c0_seq1",shape=none,fontcolor="black"]
+	n0_2337 [label="comp115259_c2_seq1",shape=none,fontcolor="black"]
+	n1_79 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.01,label="79"]
+	n0_7941 [label="comp349799_c0_seq1",shape=none,fontcolor="black"]
+	n0_21 [label="comp6328_c1_seq1",shape=none,fontcolor="black"]
+	n0_1800 [label="comp78106_c0_seq1",shape=none,fontcolor="black"]
+	n0_291 [label="comp22038_c1_seq1",shape=none,fontcolor="black"]
+	n0_2140 [label="comp536868_c0_seq1",shape=none,fontcolor="black"]
+	n0_9429 [label="comp530460_c0_seq1",shape=none,fontcolor="black"]
+	n0_2127 [label="comp424629_c0_seq1",shape=none,fontcolor="black"]
+	n0_7673 [label="comp263924_c0_seq1",shape=none,fontcolor="black"]
+	n0_6446 [label="comp215636_c0_seq1",shape=none,fontcolor="black"]
+	n0_2928 [label="comp211521_c0_seq1",shape=none,fontcolor="black"]
+	n0_6146 [label="comp429176_c0_seq1",shape=none,fontcolor="black"]
+	n0_2385 [label="comp523383_c0_seq1",shape=none,fontcolor="black"]
+	n1_69 [shape=circle,margin="0,0",style=filled,fillcolor=black,fontcolor=white,height=0.02,label="69"]
+	n0_3908 [label="comp535900_c0_seq1",shape=none,fontcolor="black"]
+	n0_1673 [label="comp77988_c0_seq1",shape=none,fontcolor="black"]
+	n0_1212 [label="comp198567_c0_seq1",shape=none,fontcolor="black"]
+}
